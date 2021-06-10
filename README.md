@@ -1,6 +1,8 @@
-Quote Generator Project from "Javascript Web Projects" course on Udemy
+# Quote Generator
 
-This was a quick project from a Javascript Web Project course on Udemy. Fundamentals covered:
+*Udemy Javascript Web Project #2*  
+
+*Fundamentals covered:*
 
 -Familiarization with VScode including hotkeys
 -Basic HTML including connecting external style sheets, fonts, icons, and JS
